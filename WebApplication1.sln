@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebAppli
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DLLS", "DLLS", "{478FEEC8-FFA3-4E80-93F5-AE1D8DCB3F86}"
 	ProjectSection(SolutionItems) = preProject
+		DLLS\BouncyCastle.Crypto.dll = DLLS\BouncyCastle.Crypto.dll
+		DLLS\itextsharp.dll = DLLS\itextsharp.dll
+		DLLS\Magick.NET-Q16-AnyCPU.dll = DLLS\Magick.NET-Q16-AnyCPU.dll
+		DLLS\Magick.NET.Core.dll = DLLS\Magick.NET.Core.dll
 		DLLS\PdfiumViewer.dll = DLLS\PdfiumViewer.dll
+		DLLS\PdfSharp.dll = DLLS\PdfSharp.dll
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "64BIT", "64BIT", "{5894F68F-126A-43CD-8812-A565BA02342F}"
